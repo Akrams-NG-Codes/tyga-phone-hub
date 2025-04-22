@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { 
@@ -58,7 +57,7 @@ const ContactPage = () => {
       <section className="bg-gray-900 text-white">
         <div className="container px-4 sm:px-6 mx-auto py-16 md:py-24">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Tyga Gadgets Store</h1>
             <p className="text-xl text-gray-300">
               We're here to help. Reach out to us with any questions or concerns.
             </p>
@@ -78,9 +77,8 @@ const ContactPage = () => {
                 <div className="flex items-start">
                   <MapPin className="h-5 w-5 text-tyga-500 mt-1 mr-3" />
                   <div>
-                    <h3 className="font-medium text-gray-900 mb-1">Headquarters</h3>
-                    <p className="text-gray-600">123 Tech Boulevard</p>
-                    <p className="text-gray-600">San Francisco, CA 94105</p>
+                    <h3 className="font-medium text-gray-900 mb-1">Store Location</h3>
+                    <p className="text-gray-600">Jonson street / Kalungi Commercial Plaza</p>
                   </div>
                 </div>
                 
@@ -88,8 +86,8 @@ const ContactPage = () => {
                   <Phone className="h-5 w-5 text-tyga-500 mt-1 mr-3" />
                   <div>
                     <h3 className="font-medium text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-600">Customer Service: (800) 555-1234</p>
-                    <p className="text-gray-600">Technical Support: (800) 555-5678</p>
+                    <p className="text-gray-600">+256 742 088 424</p>
+                    <p className="text-gray-600">+256 786 758 249</p>
                   </div>
                 </div>
                 
@@ -97,8 +95,7 @@ const ContactPage = () => {
                   <Mail className="h-5 w-5 text-tyga-500 mt-1 mr-3" />
                   <div>
                     <h3 className="font-medium text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">info@tygaphone.com</p>
-                    <p className="text-gray-600">support@tygaphone.com</p>
+                    <p className="text-gray-600">tygaofficial790@gmail.com</p>
                   </div>
                 </div>
                 

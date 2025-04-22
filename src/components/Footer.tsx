@@ -16,7 +16,7 @@ const Footer = () => {
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <Package className="h-8 w-8 text-tyga-500" />
               <span className="text-xl font-bold">
-                Tyga<span className="text-tyga-500">Phone</span>
+                Tyga<span className="text-tyga-500">Gadgets</span>Store
               </span>
             </Link>
             <p className="text-gray-400 mb-4">
@@ -183,7 +183,7 @@ const Footer = () => {
       <div className="border-t border-gray-800 py-6">
         <div className="container mx-auto px-4 sm:px-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm text-center md:text-left mb-4 md:mb-0">
-            © {currentYear} TygaPhone. All rights reserved.
+            © {currentYear} Tyga Gadgets Store. All rights reserved.
           </p>
           <div className="flex space-x-4">
             <img src="https://cdn-icons-png.flaticon.com/128/196/196578.png" alt="Visa" className="h-8 w-auto" />

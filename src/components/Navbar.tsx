@@ -31,7 +31,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center space-x-2">
               <Package className="h-8 w-8 text-tyga-500" />
               <span className="text-xl font-bold text-gray-900">
-                Tyga<span className="text-tyga-500">Phone</span>
+                Tyga<span className="text-tyga-500">Gadgets</span>Store
               </span>
             </Link>
           </div>
